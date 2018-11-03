@@ -10,6 +10,7 @@
 * git add .
 * git commit -m "message"
 * git push
+* git log
 * git push origin [new branch]
 * git checkout [branch]
 * git branch -d [branch]
