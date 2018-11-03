@@ -2,9 +2,9 @@
 ### Purpose: Teach Github from the command line and the importance of it.
 
 ### CheatSheet:
-* git config --user.name "[username]"
-* git config --user.email "[email]"
-* git config color.ui true
+* git config --global user.name "[username]"
+* git config --global user.email "[email]"
+* git config --global color.ui true
 * git clone [git repository url]
 * git add [file name and extension]
 * git add .
